@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "520732687084",
+    "project_id": "test-firebase-7127d",
+    "storage_bucket": "test-firebase-7127d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520732687084:android:9f9bf3ee568c2a283b83c9",
+        "android_client_info": {
+          "package_name": "com.example.abotnotification.abot_test_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520732687084-co2u5t9rttfig7o2ko68ng0rhma1t9t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlnQVKfW3kEfNEHIiEqBwC6iyZO1oxh14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520732687084-co2u5t9rttfig7o2ko68ng0rhma1t9t8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "520732687084-k160vk0jej4roe6ft7eu4s6a47ncvp6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ioss",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520732687084:android:c33dcee35217ccb33b83c9",
+        "android_client_info": {
+          "package_name": "test.inapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520732687084-co2u5t9rttfig7o2ko68ng0rhma1t9t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlnQVKfW3kEfNEHIiEqBwC6iyZO1oxh14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520732687084-co2u5t9rttfig7o2ko68ng0rhma1t9t8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "520732687084-k160vk0jej4roe6ft7eu4s6a47ncvp6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ioss",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
